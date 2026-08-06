@@ -96,8 +96,8 @@ A web application that helps Computer Science students calculate their universit
 
   
 
-<a href="https://nexivo-studio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://www.instagram.com/nexivo_dz">
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
 </a>
 
   

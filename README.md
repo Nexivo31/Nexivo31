@@ -11,24 +11,57 @@ Building useful projects and sharing my journey through Nexivo
 ## About Me
 
 - 🎓 Third Year Computer Science Student
-- 🌍 Based in Algeria
-- 💻 Passionate about Web Development
+- 💻 Passionate about Software & Web Development
 - 🚀 Building projects that solve real student problems
 - 📚 Currently learning Advanced JavaScript and SQL Databases
 
 ---
 
-## Tech Stack
+## Languages
 
-<p align="left">
+<p>
+
+<img src="https://skillicons.dev/icons?i=c" height="45"/>
+<img src="https://skillicons.dev/icons?i=java" height="45"/>
+<img src="https://skillicons.dev/icons?i=js" height="45"/>
+<img src="https://skillicons.dev/icons?i=html" height="45"/>
+<img src="https://skillicons.dev/icons?i=css" height="45"/>
+<img src="https://skillicons.dev/icons?i=sql" height="45"/>
+
+</p>
+
+---
+
+## Frontend
+
+<p>
 
 <img src="https://skillicons.dev/icons?i=html" height="45"/>
 <img src="https://skillicons.dev/icons?i=css" height="45"/>
 <img src="https://skillicons.dev/icons?i=js" height="45"/>
+
+</p>
+
+---
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java" height="45"/>
 <img src="https://skillicons.dev/icons?i=sql" height="45"/>
+
+</p>
+
+---
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
 <img src="https://skillicons.dev/icons?i=git" height="45"/>
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
 
 </p>
 
@@ -39,7 +72,6 @@ Building useful projects and sharing my journey through Nexivo
 - 🎓 University GPA Calculator
 - 🌐 Portfolio Website
 - 📚 Nexivo Learn
-- ⚡ More projects coming soon
 
 ---
 
@@ -47,17 +79,17 @@ Building useful projects and sharing my journey through Nexivo
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nexivo31&show_icons=true&theme=transparent"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nexivo31&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nexivo31&layout=compact&theme=transparent"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nexivo31&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## Connect With Me
+## Connect
 
-<p align="left">
+<p>
 
 <a href="mailto:dznexivo@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
@@ -68,7 +100,5 @@ Building useful projects and sharing my journey through Nexivo
 ---
 
 <p align="center">
-
 Building one project at a time
-
 </p>

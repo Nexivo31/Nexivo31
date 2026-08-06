@@ -12,20 +12,18 @@ Building useful projects and sharing my journey through Nexivo
 
 - 🎓 Third Year Computer Science Student
 - 💻 Passionate about Software & Web Development
-- 🚀 Building projects that solve real student problems
+- 🚀 Building useful projects that solve real student problems
 - 📚 Currently learning Advanced JavaScript and SQL Databases
 
 ---
 
 ## Languages
 
-<p>
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=c" height="45"/>
 <img src="https://skillicons.dev/icons?i=java" height="45"/>
 <img src="https://skillicons.dev/icons?i=js" height="45"/>
-<img src="https://skillicons.dev/icons?i=html" height="45"/>
-<img src="https://skillicons.dev/icons?i=css" height="45"/>
 <img src="https://skillicons.dev/icons?i=sql" height="45"/>
 
 </p>
@@ -34,22 +32,10 @@ Building useful projects and sharing my journey through Nexivo
 
 ## Frontend
 
-<p>
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=html" height="45"/>
 <img src="https://skillicons.dev/icons?i=css" height="45"/>
-<img src="https://skillicons.dev/icons?i=js" height="45"/>
-
-</p>
-
----
-
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java" height="45"/>
-<img src="https://skillicons.dev/icons?i=sql" height="45"/>
 
 </p>
 
@@ -57,7 +43,7 @@ Building useful projects and sharing my journey through Nexivo
 
 ## Tools
 
-<p>
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
 <img src="https://skillicons.dev/icons?i=git" height="45"/>
@@ -75,21 +61,34 @@ Building useful projects and sharing my journey through Nexivo
 
 ---
 
+## Featured Projects
+
+### 🎓 University GPA Calculator
+A web application that helps Computer Science students calculate their university averages quickly and accurately.
+
+### 🌐 Portfolio Website
+My personal portfolio showcasing projects, skills, and progress.
+
+### 🎮 NumberQuest
+A simple HTML game built while learning web development fundamentals.
+
+---
+
 ## GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nexivo31&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nexivo31&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nexivo31&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nexivo31&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-## Connect
+## Connect With Me
 
-<p>
+<p align="left">
 
 <a href="mailto:dznexivo@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>

@@ -2,7 +2,7 @@
 
 # Hi, I'm Ryad 👋
 
-**Third Year Computer Science Student** from Algeria 🇩🇿
+### Third Year Computer Science Student from Algeria 🇩🇿
 
 Building useful software and sharing the journey through **Nexivo**
 
@@ -12,13 +12,13 @@ Building useful software and sharing the journey through **Nexivo**
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student who enjoys building practical projects, learning by creating, and documenting the process through Nexivo.
+I'm a Computer Science student passionate about software and web development.
 
-My goal is to build software that solves real problems while continuously improving my development skills.
+I enjoy building practical projects, solving real problems, and sharing what I learn through **Nexivo**.
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 
@@ -26,6 +26,7 @@ My goal is to build software that solves real problems while continuously improv
 <img src="https://skillicons.dev/icons?i=c" height="45"/>
 <img src="https://skillicons.dev/icons?i=java" height="45"/>
 <img src="https://skillicons.dev/icons?i=js" height="45"/>
+<img src="https://skillicons.dev/icons?i=php" height="45"/>
 <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
 </p>
 
@@ -34,12 +35,14 @@ My goal is to build software that solves real problems while continuously improv
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html" height="45"/>
 <img src="https://skillicons.dev/icons?i=css" height="45"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" height="45"/>
 </p>
 
 ### Backend
 
 <p align="left">
-Currently expanding my backend knowledge.
+<img src="https://skillicons.dev/icons?i=php" height="45"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
 </p>
 
 ### Tools
@@ -52,26 +55,32 @@ Currently expanding my backend knowledge.
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
-* Advanced JavaScript
-* SQL & Database Design
-
----
-
-## 🚀 Featured Projects
-
-<a href="https://github.com/Nexivo31/L1-Average-Calculator">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nexivo31&repo=L1-Average-Calculator&theme=github_dark&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Nexivo31/NumberQuest">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nexivo31&repo=NumberQuest&theme=github_dark&hide_border=true"/>
-</a>
+- Advanced JavaScript
+- SQL Database Design
 
 ---
 
-## 📫 Connect
+# 🚀 Featured Projects
+
+### 🌐 Nexivo Studio
+
+Modern portfolio showcasing my projects and development journey.
+
+🔗 https://nexivo-studio.vercel.app/
+
+---
+
+### 🎓 L1 Average Calculator
+
+A web application that helps Computer Science students calculate their university averages quickly and accurately.
+
+🔗 https://github.com/Nexivo31/L1-Average-Calculator
+
+---
+
+# 📫 Connect
 
 <p align="left">
 
@@ -85,6 +94,6 @@ Currently expanding my backend knowledge.
 
 <div align="center">
 
-**Building useful projects one step at a time.**
+### Building useful projects one step at a time.
 
 </div>

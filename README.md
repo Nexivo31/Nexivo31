@@ -2,7 +2,9 @@
 
 # Hi, I'm Ryad 👋
 
-### Third Year Computer Science Student from Algeria 🇩🇿
+### Third Year Computer Science Student
+
+**Based in Algeria**
 
 Building useful software and sharing the journey through **Nexivo**
 
@@ -10,11 +12,11 @@ Building useful software and sharing the journey through **Nexivo**
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 I'm a Computer Science student passionate about software and web development.
 
-I enjoy building practical projects, solving real problems, and sharing what I learn through **Nexivo**.
+I enjoy building practical projects, solving real problems, and documenting my progress through **Nexivo**.
 
 ---
 
@@ -57,8 +59,8 @@ I enjoy building practical projects, solving real problems, and sharing what I l
 
 # 🌱 Currently Learning
 
-- Advanced JavaScript
-- SQL Database Design
+* Advanced JavaScript
+* SQL Database Design
 
 ---
 
@@ -66,9 +68,10 @@ I enjoy building practical projects, solving real problems, and sharing what I l
 
 ### 🌐 Nexivo Studio
 
-Modern portfolio showcasing my projects and development journey.
+Modern portfolio showcasing my projects, skills, and development journey.
 
-🔗 https://nexivo-studio.vercel.app/
+🔗 **Live Demo**
+https://nexivo-studio.vercel.app/
 
 ---
 
@@ -76,13 +79,26 @@ Modern portfolio showcasing my projects and development journey.
 
 A web application that helps Computer Science students calculate their university averages quickly and accurately.
 
-🔗 https://github.com/Nexivo31/L1-Average-Calculator
+🔗 **GitHub Repository**
+https://github.com/Nexivo31/L1-Average-Calculator
 
 ---
 
 # 📫 Connect
 
 <p align="left">
+
+<a href="https://github.com/Nexivo31">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+ 
+
+<a href="https://nexivo-studio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+ 
 
 <a href="mailto:dznexivo@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>

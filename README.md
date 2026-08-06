@@ -90,12 +90,6 @@ A web application that helps Computer Science students calculate their universit
 
 <p align="left">
 
-<a href="https://github.com/Nexivo31">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-  
-
 <a href="https://www.instagram.com/nexivo_dz">
 <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
 </a>

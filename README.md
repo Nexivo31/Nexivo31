@@ -1,103 +1,75 @@
-<h1 align="center">Hi, I'm Ryad 👋</h1>
+# Hi, I'm Ryad 👋
 
-<p align="center">
 Third Year Computer Science Student from Algeria 🇩🇿
-<br>
-Building useful projects and sharing my journey through Nexivo
-</p>
+
+Building useful software and documenting the journey through Nexivo.
 
 ---
 
-## About Me
-
-- 🎓 Third Year Computer Science Student
-- 💻 Passionate about Software & Web Development
-- 🚀 Building useful projects that solve real student problems
-- 📚 Currently learning Advanced JavaScript and SQL Databases
-
----
-
-## Languages
+## Tech
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=c" height="45"/>
-<img src="https://skillicons.dev/icons?i=java" height="45"/>
-<img src="https://skillicons.dev/icons?i=js" height="45"/>
-<img src="https://skillicons.dev/icons?i=sql" height="45"/>
-
+<img src="https://skillicons.dev/icons?i=c,java,js,html,css,sql,vscode,git,github" />
 </p>
 
 ---
 
-## Frontend
+## Currently Learning
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=html" height="45"/>
-<img src="https://skillicons.dev/icons?i=css" height="45"/>
-
+<img src="https://skillicons.dev/icons?i=js,sql" />
 </p>
 
----
-
-## Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
-<img src="https://skillicons.dev/icons?i=git" height="45"/>
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-
-</p>
-
----
-
-## Current Projects
-
-- 🎓 University GPA Calculator
-- 🌐 Portfolio Website
-- 📚 Nexivo Learn
+Advanced JavaScript  
+SQL Databases
 
 ---
 
 ## Featured Projects
 
-### 🎓 University GPA Calculator
-A web application that helps Computer Science students calculate their university averages quickly and accurately.
+<table>
+<tr>
 
-### 🌐 Portfolio Website
-My personal portfolio showcasing projects, skills, and progress.
+<td width="50%">
 
-### 🎮 NumberQuest
-A simple HTML game built while learning web development fundamentals.
+### 🎓 L1 Average Calculator
 
----
+University GPA calculator built for Computer Science students.
 
-## GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nexivo31&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nexivo31&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-## Connect With Me
-
-<p align="left">
-
-<a href="mailto:dznexivo@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<a href="https://github.com/Nexivo31/L1-Average-Calculator">
+View Project →
 </a>
 
+</td>
+
+<td width="50%">
+
+### 🎮 NumberQuest
+
+Small HTML project created while learning web development.
+
+<a href="https://github.com/Nexivo31/NumberQuest">
+View Project →
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## GitHub
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nexivo31&theme=github_dark&show_icons=true&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nexivo31&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
 
-<p align="center">
-Building one project at a time
-</p>
+## Contact
+
+<a href="mailto:dznexivo@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="42"/>
+</a>
